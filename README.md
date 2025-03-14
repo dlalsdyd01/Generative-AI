@@ -10,6 +10,7 @@
 ![2025 로봇 AI_사진_20250312_3](https://github.com/user-attachments/assets/74ba2ff6-a230-4db8-a400-8ef2b0999650)  
 
 
+
 ### SUNO.ai를 이용하여 음악 만들기  
 만들고싶은 음악에 대한 설명을 한다.  
 ![2025 로봇 AI_사진_20250312_4](https://github.com/user-attachments/assets/2dde6277-60db-4e91-884f-ed218458e63e)  
