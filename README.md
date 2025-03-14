@@ -16,3 +16,7 @@
 제목은 매일 아침 6시에, ai가 만든노래가 완성되었다.
 ![2025 로봇 AI_사진_20250312_5](https://github.com/user-attachments/assets/4d5adbd6-dcbc-4149-b94f-69d65d042f43)  
 
+
+
+https://github.com/user-attachments/assets/17b21e79-6199-41a1-ab6b-6cea95e90385
+
